@@ -1,0 +1,16 @@
+{
+    "name": "user/tmp",
+    "autoload": {
+        "psr-4": {
+            "Animals\\": "Animals/"
+           
+        }
+    },
+    "authors": [
+        {
+            "name": "Riyadh Ahmed",
+            "email": "riathislam44@gmail.com"
+        }
+    ],
+    "require": {}
+}
